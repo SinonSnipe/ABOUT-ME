@@ -27,7 +27,7 @@ Welcome! I'm Enrique Lozano | <img align="center" height="18px" src="https://wak
     </tbody>
 </table>
   </div>
-<img height="200px" width="100%" src="https://github-profile-trophy.vercel.app/?username=vannara43&theme=radical"/>
+<img height="200px" width="100%" src="https://github-profile-trophy.vercel.app/?username=SinonSNipe&theme=radical"/>
 <img width="100%" src="https://repobeats.axiom.co/api/embed/d401fff1cf2a044f84c3a8c9d201cbdbe4abee5f.svg">
 <img src="https://activity-graph.herokuapp.com/graph?username=vannara43&theme=react-dark&hide_border=true">
 
