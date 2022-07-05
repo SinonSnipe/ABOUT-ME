@@ -1,4 +1,3 @@
-# ABOUT-ME
 <div align="center">
 
 Welcome! I'm Enrique Lozano | <img align="center" height="18px" src="https://wakatime.com/badge/user/0a36a20b-468e-4608-ba3b-f27985a34f1b.svg"/> <img align="center" src="https://komarev.com/ghpvc/?username=SinonSnipe&label=Profile%20views&color=0e75b6&style=flat" alt="SinonSnipe" />
