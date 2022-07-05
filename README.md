@@ -16,7 +16,7 @@ Welcome! I'm Enrique Lozano | <img align="center" height="18px" src="https://wak
     <tr>
   <td height="350px" width="auto">
       <div align="center">
-      <img align="center" alt="My stats" height="" width="500px" src="https://awesome-github-stats.azurewebsites.net/user-stats/vannara43?cardType=github&theme=radical"/>
+      <img align="center" alt="My stats" height="" width="500px" src="https://awesome-github-stats.azurewebsites.net/user-stats/SinonSnipe?cardType=github&theme=radical"/>
         <img height="200px" width="500px" src="https://github-readme-streak-stats.herokuapp.com/?user=vannara43&theme=radical"/>
       </div>
     </td>
