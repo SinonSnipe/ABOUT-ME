@@ -49,6 +49,7 @@ Welcome! I'm Enrique Lozano | <img align="center" height="18px" src="https://wak
   <img align="center" alt="vannara43-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 </div>
 <hr/>
+
 - 🔭 I’m currently working on Trainsquare
 - 🌱 I’m currently learning Postgres and Python
 - 👯 I’m looking to collaborate on new projects
